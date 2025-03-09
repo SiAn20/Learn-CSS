@@ -6,9 +6,7 @@ Es un lenguaje de diseño, estilado y declarativo para describir la presentació
 - **CSS:** Diseño
 - **JavaScript:** Iteratividad
 
-Sus siglas son Cascading Style Sheets (Hojas de estilo en cascada)
-    
-    Cascada por que se lee, procesa y aplica el código desde arriba hacia abajo
+Sus siglas son Cascading Style Sheets (Hojas de estilo en cascada). Cascada por que se lee, procesa y aplica el código desde arriba hacia abajo
 
 ## Recursos CSS
 **Recomendados**
@@ -18,3 +16,6 @@ Sus siglas son Cascading Style Sheets (Hojas de estilo en cascada)
 
 **No recomendados**
 - **w3schools** Puede tener información desactualizada y erronea.
+
+## Herramientas
+- 
