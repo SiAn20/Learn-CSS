@@ -84,12 +84,18 @@ Ejemplo:
 - Aprender CSS: [Manz.dev](https://lenguajecss.com/css/)
 - Curso de Google CSS: [Web.dev](https://web.dev/learn/css?hl=es)
 - Referencias actualizadas: [MDN web docs](https://developer.mozilla.org/es/docs/Web/CSS)
+- Guia visual de propiedades CSS: [css reference](https://cssreference.io/)
+- Análizador de CSS, califica tu CSS: [Project Wallace: CSS Analytics](https://www.projectwallace.com/)
 - Generar de maquetado:
   - [Flexbox Labs](https://flexboxlabs.netlify.app/)
   - [CSS Layout Generator](https://layout.bradwoods.io/)
 - Juegos de CSS:
+  - [Codedex](https://www.codedex.io/css)
   - [CSSBattle](https://cssbattle.dev/)
   - [CSS Diner](https://flukeout.github.io/)
+- Projectos:
+  - [CodeWithCurious](https://codewithcurious.com/web-developement-projects/)
+  - [practical-tutorials](https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file#html-and-css)
 
 **No recomendados**
 
